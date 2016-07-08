@@ -13,7 +13,7 @@ A simple browser homepage, that can be an alternative to a system desktop.
 
 ## Release Notes
 
-6/21/16  This project is a work-in-progress, with enough features to be minimally useful.
+7/8/16  This project is a work-in-progress, with enough features to be minimally useful.
 
 ## Status
 
