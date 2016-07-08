@@ -1,4 +1,4 @@
-# BrowserHome
+# Browser Home
 
 A simple browser homepage, that can be an alternative to a system desktop.
 
